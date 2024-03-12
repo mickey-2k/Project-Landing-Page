@@ -1,0 +1,7 @@
+body {
+    display: flex;
+}
+
+ul.header-links {
+    list-style-type: none;
+}
