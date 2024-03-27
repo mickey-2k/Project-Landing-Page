@@ -1,7 +1,9 @@
-body {
-    display: flex;
-}
-
 ul.header-links {
     list-style-type: none;
+}
+
+.main-header-text {
+    font-weight: 800;
+    font-size: 48px;
+    color: #F9FAF8;
 }
