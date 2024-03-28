@@ -17,3 +17,17 @@ ul.header-links, .header-subtext {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.button-top {
+    background-color: #3882F6;
+    border-radius: 4px;
+    border: none;
+    padding: 4px 20px;
+    text-align: center;
+    color:#F9FAF8;
+}
