@@ -43,3 +43,15 @@ ul.header-links, .header-subtext {
     display: flex;
     justify-content: space-around;
 }
+
+.header-text-image {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+.image-placeholder {
+    padding: 75px 100px;
+    background-color: #8D8E91;
+    color: #E5E7EB;   
+}
