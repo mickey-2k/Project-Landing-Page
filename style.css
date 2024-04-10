@@ -56,3 +56,7 @@ ul.header-links, .header-subtext {
     background-color: #8D8E91;
     color: #E5E7EB;   
 }
+
+li {
+    margin: 0px 20px;
+}
