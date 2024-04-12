@@ -53,7 +53,6 @@ ul.header-links, .header-subtext {
     border-color:#3882F6;
     border-style: solid;
     border-radius: 20px;
-    margin: 15px;
 }
 
 .header-text-image {
@@ -83,4 +82,10 @@ li {
 
 .image-and-subtext {
     display: flex;
+    justify-content: space-around;
+}
+
+.images-row {
+    text-align: justify;
+    width: 300px;
 }
