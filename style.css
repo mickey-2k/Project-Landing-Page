@@ -7,7 +7,7 @@ body {
 ul.header-links {
     list-style-type: none;
     display: flex;
-    justify-content: space-between;
+    margin-right: 9rem;
 }
 
 .main-header-text {
@@ -29,6 +29,7 @@ ul.header-links, .header-subtext {
     font-size: 24px;
     color: #F9FAF8;
     font-weight: bold;
+    margin-left: 9rem;
 }
 
 .button-top {
@@ -42,21 +43,26 @@ ul.header-links, .header-subtext {
 
 .header {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .header-text-image {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: baseline;
 }
 
 .image-placeholder {
     padding: 75px 100px;
     background-color: #8D8E91;
-    color: #E5E7EB;   
+    color: #E5E7EB;
+    margin-right: 10rem;   
 }
 
 li {
     margin: 0px 20px;
+}
+
+.image-text {
+    margin-left: 9rem;
 }
