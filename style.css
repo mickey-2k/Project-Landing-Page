@@ -80,3 +80,7 @@ li {
 .header-white {
     text-align: center;
 }
+
+.image-and-subtext {
+    display: flex;
+}
