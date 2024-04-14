@@ -47,8 +47,8 @@ ul.header-links, .header-subtext {
 }
 
 .empty-image {
-    width: 300px;
-    height: 300px;
+    width: 150px;
+    height: 150px;
     border-width: 5px;
     border-color:#3882F6;
     border-style: solid;
@@ -88,4 +88,12 @@ li {
 .images-row {
     text-align: justify;
     width: 300px;
+}
+
+.grey-middle {
+    background-color: #E5E7Eb;
+}
+
+.hero, .white-middle, .grey-middle {
+    height: 25vh;
 }
