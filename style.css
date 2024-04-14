@@ -97,7 +97,7 @@ li {
     align-items: center;
 }
 
-.hero, .white-middle, .grey-middle {
+.hero, .white-middle, .grey-middle, {
     height: 40vh;
 }
 
@@ -109,4 +109,12 @@ li {
 
 .author {
     font-weight:600;
+}
+
+.white-bottom {
+    height: 35vh;
+}
+
+.footer {
+    height: 5vh;
 }
