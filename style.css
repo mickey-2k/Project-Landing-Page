@@ -92,6 +92,9 @@ li {
 
 .grey-middle {
     background-color: #E5E7Eb;
+    display: flex;
+    justify-items: center;
+    align-items: center;
 }
 
 .hero, .white-middle, .grey-middle {
@@ -99,7 +102,9 @@ li {
 }
 
 .quote {
-    font-style: italic;
+    font-style: light italic;
+    font-size: 36px;
+    color: #1F2937;
 }
 
 .author {
