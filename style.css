@@ -32,13 +32,16 @@ ul.header-links, .header-subtext {
     margin-left: 9rem;
 }
 
-.button-top {
+.button-top, .button-bottom {
     background-color: #3882F6;
     border-radius: 4px;
-    border: none;
     padding: 4px 20px;
     text-align: center;
     color:#F9FAF8;
+}
+
+.button-top {
+    border: none;
 }
 
 .header {
@@ -117,4 +120,14 @@ li {
 
 .footer {
     height: 5vh;
+}
+
+.blue-rectangle {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
+.button-bottom {
+    border: #F9FAF8;
+    border-width: 15px;
 }
