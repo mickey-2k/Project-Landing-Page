@@ -124,3 +124,10 @@ li {
 .call-to-action {
     font-weight:900;
 }
+
+.footer {
+    color:#E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
