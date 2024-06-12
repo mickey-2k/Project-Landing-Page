@@ -8,6 +8,7 @@ ul.header-links {
     list-style-type: none;
     display: flex;
     margin-right: 9rem;
+    flex-wrap: nowrap;
 }
 
 .main-header-text {
