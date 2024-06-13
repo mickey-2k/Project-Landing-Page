@@ -21,6 +21,11 @@ ul.header-links {
     background-color: #1F2937;
 }
 
+/* Adds padding to bottom portion of dark-colored header */
+.hero {
+    padding-bottom: 10vh;
+}
+
 ul.header-links, .header-subtext {
     font-size: 18px;
     color: #E5E7EB;
@@ -104,7 +109,7 @@ li {
 .quote {
     font-style: light italic;
     font-size: 36px;
-font-weight: 300;
+    font-weight: 300;
     color: #1F2937;
 }
 
@@ -132,4 +137,5 @@ font-weight: 300;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 4vh;
 }
