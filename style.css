@@ -70,10 +70,10 @@ ul.header-links, .header-subtext {
 }
 
 .image-placeholder {
-    padding: 5vw 10vw;
-    background-color: #8D8E91;
-    color: #E5E7EB;
-    margin-right: 10vw;   
+    padding: 5vw 10vw;              /* Size of the placeholder */
+    background-color: #8D8E91;    /* Background color */
+    color: #E5E7EB;               /* font color */
+    margin-right: 10vw;             /* margin from right side of screen to placeholder */
 }
 
 /* Adds a margin of 20px to the left side of each header link*/
