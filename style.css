@@ -7,8 +7,7 @@ body {
 ul.header-links {
     list-style-type: none;
     display: flex;
-    margin-right: 9rem;
-    flex-wrap: nowrap;
+    margin-right: 10vw;
 }
 
 .main-header-text {
@@ -74,11 +73,12 @@ ul.header-links, .header-subtext {
     padding: 75px 100px;
     background-color: #8D8E91;
     color: #E5E7EB;
-    margin-right: 10rem;   
+    margin-right: 10vw;   
 }
 
+/* Adds a margin of 20px to the left side of each header link*/
 li {
-    margin: 0px 20px;
+    margin-left: 20px;
 }
 
 .image-text {
