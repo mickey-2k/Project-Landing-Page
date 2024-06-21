@@ -30,11 +30,16 @@ ul.header-links, .header-subtext {
     color: #E5E7EB;
 }
 
+.header-subtext, .button-top, .main-header-text {
+    margin-left: 20vw;
+    padding-right: 5vw;
+}
+
 .header-logo {
     font-size: 24px;
     color: #F9FAF8;
     font-weight: bold;
-    margin-left: 9rem;
+    margin-left: 10vw;
 }
 
 .button-top, .button-bottom {
@@ -47,6 +52,7 @@ ul.header-links, .header-subtext {
 
 .button-top {
     border: none;
+    
 }
 
 .header {
@@ -73,7 +79,7 @@ ul.header-links, .header-subtext {
     padding: 5vw 10vw;              /* Size of the placeholder */
     background-color: #8D8E91;    /* Background color */
     color: #E5E7EB;               /* font color */
-    margin-right: 10vw;             /* margin from right side of screen to placeholder */
+    margin-right: 20vw;             /* margin from right side of screen to placeholder */
 }
 
 /* Adds a margin of 20px to the left side of each header link*/
@@ -81,9 +87,9 @@ li {
     margin-left: 20px;
 }
 
-.image-text {
+/* .image-text {
     margin-left: 9rem;
-}
+} */
 
 .header-white {
     text-align: center;
